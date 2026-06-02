@@ -1,0 +1,5 @@
+[submodule "sourcedata/triplets.fmriprep"]
+	path = sourcedata/triplets.fmriprep
+	url = https://github.com/courtois-neuromod/triplets.fmriprep
+	datalad-id = 6eb11d57-4cd5-4220-b22e-0b628c382a7c
+	datalad-url = https://github.com/courtois-neuromod/triplets.fmriprep
