@@ -1,0 +1,1 @@
+7e0426a9-13ee-47be-9523-63fbeb4c75cb autoenable=true bucket=cneuromod.triplets.tsnr chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.triplets.tsnr port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1785353026s
